@@ -1,18 +1,22 @@
-## Your Name
+## Lewis Watson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Full-time web development student. During my studies at Makers Academy I have built various projects whilst learning the best practises of the coding industry. Looking for a working environment which will encourage my continued progression in full-stack development and overall learning.
 
 ## Skills
 
-#### This Skill
+#### Full Stack developer
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have various projects to showcase my skills in both front and back end. Some of these projects were started before my current studies but have been included to show my progression. At Makers Academy I have learned best practices such OOP, TDD, MVC, using Agile and XP values and following SOLID principles in order to self-learn Ruby, Sinatra, Ruby on Rails (testing with RSpec, and SimpleCov), JavaScript, Node, Express (testing with Jasmine, Mocha, Chai and Instanbul) and even building the beginnings of a testing framework (see below).
 
-- Experience
-- Achievements
-- Evidence
+<!--  Add projects -->
 
-#### Another Skill
+#### Communication
+
+As a keen linguist, I am aware that communication is key. I speak fluent French and reasonable Italian. Having travelled widely and worked int a variety of backgrounds I am confident in talking to people from all nationalities and all walks of life.
+
+During my time as a teacher I used my communication skills to help others to learn English. These skills were also important to my role at BPA Quality where I was responsible for monitoring the quality of various companies' customer service skills. I was also often invited to work with the clients directly in order to help them improve their relationships with customers
+
+#### 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
