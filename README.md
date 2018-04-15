@@ -64,7 +64,7 @@ BICFET Certificate of English / French Translation
 The range of ability and turnover of students (age range 11-18 y/o) during the busy summer school period required the flexibility to plan lessons  and adapt according to the ever-changing intake of students.
 
 #### Quality Evaluation Analyst, BPA Quality, Exeter - 2014-2016
-Providing  B2B support, helping clients to improve their goals in terms of customer servide and customer satisfaction. I led various client meetings and played an important role in onboarding new clients.
+Providing  B2B support, helping clients to realise their objectives in terms of customer service and customer satisfaction. I led various client meetings and played an important role in onboarding new clients.
 
 #### English Teacher, English Unlimited, Brisbane - 2013
 I was responsible for innovative and original lesson planning for my own class. As the students were mostly long-term this involved creating personal learning programmes according to the individual needs and goals of the students.
