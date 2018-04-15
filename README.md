@@ -35,10 +35,10 @@ I am hard-working and self-motivated. I take pride in working to the best of my 
 
 ## Projects
 
-| Project              | Description | Technologies  | Testing |
-| -------------------- |-------------| --------------|---------|
-| Acheezable <a href="https://github.com/l3w15/acheezable/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | Final Project: A cheese-themed self-motivation app. | JavaScript, Node.js, Express, MongoDB, HTML/EJS/CSS, jQuery  | Cypress |
-| ChillJam <a href="https://github.com/l3w15/chillJam/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | A JavaScript bot for entering twitter competitions. Makers Week 9 | JavaScript, Node.js, Express, node-twitter, HTML/EJS/CSS | Mocha, Chai, Zombie |
-| Nowt bu' green <a href="https://github.com/l3w15/note_js/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40">| A testing framework written in vanilla JS. Makers Week 7 | JavaScript, HTML/CSS | Nowt bu' green |
-| Thermostat <a href="https://github.com/l3w15/note_js/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | A thermostat styled a little like an early iPod, which can retrieve worldwide weather reports. Makers Week 5 | Javascript, jQuery, HTML/CSS | Jasmine |
-| Rock Paper Scissors Lizard Spock <a href="https://github.com/l3w15/note_js/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | Everyone's favourite childhood game | Ruby, HTML/CSS | RSpec |
+| Project              | Repo | Description | Technologies  | Testing |
+| -------------------- |------|-------------| --------------|---------|
+| Acheezable | <a href="https://github.com/l3w15/acheezable/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | Final Project: A cheese-themed self-motivation app. | JavaScript, Node.js, Express, MongoDB, HTML/EJS/CSS, jQuery  | Cypress |
+| ChillJam | <a href="https://github.com/l3w15/chillJam/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | A JavaScript bot for entering twitter competitions. Makers Week 9 | JavaScript, Node.js, Express, node-twitter, HTML/EJS/CSS | Mocha, Chai, Zombie |
+| Nowt bu' green | <a href="https://github.com/l3w15/note_js/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40">| A testing framework written in vanilla JS. Makers Week 7 | JavaScript, HTML/CSS | Nowt bu' green |
+| Thermostat | <a href="https://github.com/l3w15/note_js/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | A thermostat styled a little like an early iPod, which can retrieve worldwide weather reports. Makers Week 5 | Javascript, jQuery, HTML/CSS | Jasmine |
+| Rock Paper Scissors Lizard Spock | <a href="https://github.com/l3w15/note_js/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"> | Everyone's favourite childhood game | Ruby, HTML/CSS | RSpec |
