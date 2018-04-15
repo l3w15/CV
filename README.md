@@ -13,7 +13,7 @@
 
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> | <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> </p>
 
-I am passionate about learning and problem-solving, which has led me to study web development. During my studies at Makers Academy I have built various projects whilst learning the best practises of the coding industry, in a progressive and encouraging environment. I'm looking for a working environment which will encourage my continued progression in full-stack development and overall learning.
+I am passionate about learning and problem-solving, which has led me to study web development. During my studies at Makers Academy I have built various projects whilst learning the best practices of the coding industry, in a progressive and encouraging environment. I'm looking for a working environment which will foster my continued progression in full-stack development and overall learning.
 
 ## Skills
 
